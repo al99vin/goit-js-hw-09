@@ -4,6 +4,7 @@ const startB = document.querySelector('[data-start]')
 const stopB = document.querySelector('[data-stop]')
 
 stopB.disabled = true;
+let timerId = null;
 
 startB.addEventListener('click', event => {
     timerId = setInterval(() => {
