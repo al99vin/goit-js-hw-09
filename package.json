@@ -12,10 +12,10 @@
     "url": "git+https://github.com/al99vin/goit-js-hw-09"
   },
   "keywords": [],
-  "author": "Alexander Repeta <al99vin1@gmail.com>",
+  "author": "Oleksii Cherniakin <al99vin1@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "git+https://github.com/al99vin/goit-js-hw-09/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
